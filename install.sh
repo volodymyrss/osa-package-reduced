@@ -6,4 +6,4 @@ mkdir -pv /data/rep_base_prod/cat/hec/
 cp -fv /data/resources/gnrl_refr_cat_0040.fits /data/rep_base_prod/cat/hec/gnrl_refr_cat_0040.fits
 
 mkdir -pv /data/rep_base_prod/aux/adp
-tar xvzf auxadpref.tgz -C /data/rep_base_prod/aux/adp
+tar xvzf auxadprefdir.tgz -C /data/rep_base_prod/aux/adp
